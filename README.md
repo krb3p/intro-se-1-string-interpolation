@@ -8,6 +8,8 @@ Let's create a program that prints out a beautiful command-line business card li
 
 ## Skills you may need
 
+The following three major skills are really useful, but you may be able to at least _start_ without them. If you want to jump right into the lab, code your business card maker in the file called cards.rb, and run it using the command `ruby cards.rb`.
+
 ### User Input
 
 In the example above, you can see that the user is entering four pieces of information about him/herself into the console.
