@@ -8,7 +8,7 @@ Let's create a program that prints out a beautiful command-line business card li
 
 ## Skills you may need
 
-#### User Input
+### User Input
 
 In the example above, you can see that the user is entering four pieces of information about him/herself into the console.
 
@@ -38,7 +38,7 @@ job = gets.chomp # the left side means we will store the user's position in a va
 
 </details>
 
-#### Escape Sequences
+### Escape Sequences
 
 You may want to store a string with some formatting in a variable. For example, consider these two ways of describing a dog:
 
@@ -70,7 +70,7 @@ Believe it or not, those two blocks of code do the exact same thing. The "\n" se
 
 You may want to use "\n" and "\t" in your code to insert new lines and to tab information in from the side; these escape sequences can help you format your business cards.
 
-#### Interpolation and Concatenation.
+### Interpolation and Concatenation.
 
 One last skill you may need is interpolation. You can tell from the example that we won't know the user's job until they type it in, but the program has to be finished before you can run it and get the user to type it in.
 
